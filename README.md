@@ -17,7 +17,7 @@
 
 ### This project took around 6 hours to complete.
 
-### Project Link : [Link](https://design-landing-page-dashboard.netlify.app/)
+### Project Link : [Link](https://developer-landing-page-dashboard.netlify.app/)
 
 
 ### Screenshot
